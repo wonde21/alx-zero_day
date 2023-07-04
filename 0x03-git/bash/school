@@ -1,3 +1,4 @@
+<<<<<<< .merge_file_P9pbmD
 <<<<<<< .merge_file_Hpu54M
 <<<<<<< .merge_file_7xRgbW
 <<<<<<< .merge_file_XitdUu
@@ -16,3 +17,7 @@ echo "School"
 #/bin/bash
 echo "School"
 >>>>>>> .merge_file_mi3CuQ
+=======
+#/bin/bash
+echo "School"
+>>>>>>> .merge_file_BTBoJJ
