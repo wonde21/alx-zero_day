@@ -1,3 +1,4 @@
+<<<<<<< .merge_file_7xRgbW
 <<<<<<< .merge_file_XitdUu
 #!/bin/bash
 
@@ -6,3 +7,7 @@ echo "The school is open!"
 #/bin/bash
 echo "School"
 >>>>>>> .merge_file_jGKMLv
+=======
+#/bin/bash
+echo "School"
+>>>>>>> .merge_file_Mg8AqY
